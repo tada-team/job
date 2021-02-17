@@ -31,5 +31,5 @@
 ## Контакты
  - mo@tada.team
  - https://www.facebook.com/maxim.oranskiy
- - t.me/sdfsdhgjkbmnmxc
+ - https://t.me/sdfsdhgjkbmnmxc
  
