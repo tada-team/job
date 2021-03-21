@@ -10,6 +10,7 @@
 - TypeScript (проект типизирован пока только частично, основная масса всё ещё JS)
 - SCSS
 - WebRTC
+- Electron
 - i18n/i18next
 - axios
 
