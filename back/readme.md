@@ -27,5 +27,5 @@
  - Go, Python, Redis, Postgres
 
 ### Как откликнуться
-- или анкета: https://tada.team/go-job
-- или прислать резюме на am@tada.team
+- анкета: https://tada.team/go-job
+- контакт: mo@tada.team
